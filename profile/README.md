@@ -6,7 +6,7 @@
 ## Helidon
 
 Welcome to the new home of Helidon: Java libraries for microservices.
-We are in the process of moving! For now you can visit the primary
+We are in the process of moving in! For now you can visit the primary
 Helidon repository at <https://github.com/oracle/helidon>
 
 ## Get Started
