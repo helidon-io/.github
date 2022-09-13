@@ -11,8 +11,24 @@ or [Helidon CLI](https://helidon.io/docs/latest/#/about/cli).
 
 ## Oracle GitHub organizations
 
-|              |           |          |          |
-|--------------|-----------|----------|----------|
-|[Oracle](https://github.com/oracle) | [AddThis](https://github.com/addthis) | [Fn Project](https://github.com/fnproject) | [Java Community Process](https://github.com/jcp-org) |
-[Java EE](https://github.com/javaee) |[MySQL](https://github.com/mysql) |[Oracle DevRel](https://github.com/oracle-devrel) |[Oracle GitHub Actions](https://github.com/oracle-actions) |
-|[Oracle Quick Start](https://github.com/oracle-quickstart) |[Oracle Sample Projects](https://github.com/oracle-samples) |[Oracle Terraform Modules](https://github.com/oracle-terraform-modules) |[Verrazzano](https://github.com/verrazzano)
+<table>
+  <tr>
+  <td><a href="https://github.com/oracle">Oracle</a></td>
+  <td><a href="https://github.com/addthis">AddThis</a></td>
+  <td><a href="https://github.com/fnproject">Fn Project</a></td>
+  <td><a href="https://github.com/jcp-org">Java Community Process</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/javaee">Java EE</a></td>
+  <td><a href="https://github.com/mysql">MySQL</a></td>
+  <td><a href="https://github.com/oracle-devrel">Oracle DevRel</td>
+  <td><a href="https://github.com/oracle-actions">Oracle GitHub Actions</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/oracle-quickstart">Oracle Quick Start</a></td>
+  <td><a href="https://github.com/oracle-samples">Oracle Sample Projects</a></td>
+  <td><a href="https://github.com/oracle-terraform-modules">Oracle Terraform Modules</a></td>
+  <td><a href="https://github.com/verrazzano">Verrazzano</a></td>
+  </tr>
+</table>
+
