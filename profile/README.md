@@ -12,15 +12,15 @@ or [Helidon CLI](https://helidon.io/docs/latest/#/about/cli).
 <table>
   <tr>
   <td><a href="https://github.com/oracle">Oracle</a></td>
-  <td><a href="https://github.com/addthis">AddThis</a></td>
   <td><a href="https://github.com/fnproject">Fn Project</a></td>
+    <td><a href="https://github.com/graalvm">GraalVM</a></td>
   <td><a href="https://github.com/jcp-org">Java Community Process</td>
   </tr>
   <tr>
-  <td><a href="https://github.com/javaee">Java EE</a></td>
   <td><a href="https://github.com/mysql">MySQL</a></td>
   <td><a href="https://github.com/oracle-devrel">Oracle DevRel</td>
   <td><a href="https://github.com/oracle-actions">Oracle GitHub Actions</td>
+  <td><a href="https://github.com/oci-landing-zones">OCI Landing Zones</a></td>
   </tr>
   <tr>
   <td><a href="https://github.com/oracle-quickstart">Oracle Quick Start</a></td>
